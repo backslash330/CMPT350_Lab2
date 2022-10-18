@@ -1,4 +1,4 @@
-# Nicholas Almeida
+# Author: Nicholas Almeida
 # Lab 2
 
 # write a MIPS program which will recursively compute the 
